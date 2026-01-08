@@ -1,2 +1,3 @@
 # english-to-french-translation-portfolio
 Here are some translations from English to French, and in various topics. These translations were done on a voluntary basis.  
+Here are the different links for each original version : 1)  https://bigthink.com/neuropsych/psychology-shopping-addiction/ (Addiction au shopping) / 2)  https://www.washingtonpost.com/arts-entertainment/interactive/2021/kpop-bts-youtube-twitter-blackpink/ (K-Pop) / 3)  https://greenly.earth/en-gb/blog/industries/eco-responsible-travel-our-guide-for-2024 (Voyage éco-responsable) / 4)  https://www.theguardian.com/commentisfree/2020/nov/23/video-games-boost-mental-health-stop-guilty-pleasure (Jeux Vidéos)
